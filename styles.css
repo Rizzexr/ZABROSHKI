@@ -32,7 +32,7 @@ body {
     padding: 10px 20px;
     border: none;
     border-radius: 25px;
-    background: #ff4444;
+    background: #FF2D55;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
@@ -81,7 +81,7 @@ body {
     bottom: 0;
     left: 0;
     width: 100%;
-    background-color: #ff4444;
+    background-color: #FF2D55;
     color: white;
     text-align: center;
     padding: 10px;
@@ -113,7 +113,7 @@ body {
 
 .mode-btn.active {
     background: #ffffff;
-    color: #ff4444;
+    color: #FF2D55;
     font-weight: bold;
 }
 
@@ -180,7 +180,7 @@ body {
     right: 12px;
     font-size: 18px;
     cursor: pointer;
-    background: #ff4444;
+    background: #FF2D55;
     color: white;
     width: 32px;
     height: 32px;
@@ -193,7 +193,7 @@ body {
 }
 
 .close-btnriz:hover {
-    background: #cc0000;
+    background: #2dff34;
 }
 
 .overlayriz.active {
@@ -213,7 +213,7 @@ body {
     text-transform: uppercase;
     color: #fff;
     font-weight: bold;
-    background: #ff4444;
+    background: #FF2D55;
     padding: 1vh;
     border-radius: 1vh;
     -webkit-tap-highlight-color: transparent;
@@ -232,7 +232,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #ff4444;
+    background: #FFFFFF;
     z-index: 9999;
     display: flex;
     flex-direction: column;
@@ -248,19 +248,20 @@ body {
 }
 
 .progress-container {
-    width: 50%;
-    height: 20px;
-    background: #262626;
+    width: 70%;
+    height: 25px;
+    background: #E9E9E9;
     border-radius: 10px;
     overflow: hidden;
     position: relative;
     margin-top: 20px; /* Отступ от логотипа */
+    box-shadow: inset 0vh 0.5vh 0.5vh rgba(0, 0, 0, 0.25);
 }
 
 .progress-bar {
     width: 0%;
     height: 100%;
-    background: #fff;
+    background: #FF2D55;
     transition: width 3s linear;
 }
 
