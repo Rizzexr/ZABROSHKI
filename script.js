@@ -468,15 +468,15 @@ const points = [
         guarded: "Нет",
         difficulty: "2/3"
     },
-    { 
-        lat: 46.544006, 
-        lon: 30.729146, 
-        label: "Заброшенный цех", 
-        color: "#FF2D55", 
-        image: "https://rizzexr.github.io/Rizzexr/Zabroshki/images/26.jpg",
-        guarded: "Нет",
-        difficulty: "1/3"
-    },
+    // { 
+    //     lat: 46.544006, 
+    //     lon: 30.729146, 
+    //     label: "Заброшенный цех", 
+    //     color: "#FF2D55", 
+    //     image: "https://rizzexr.github.io/Rizzexr/Zabroshki/images/26.jpg",
+    //     guarded: "Нет",
+    //     difficulty: "1/3"
+    // },
     // { 
     //     lat: , 
     //     lon: , 
