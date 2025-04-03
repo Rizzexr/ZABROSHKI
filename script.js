@@ -477,6 +477,24 @@ const points = [
     //     guarded: "Нет",
     //     difficulty: "1/3"
     // },
+    { 
+        lat: 46.001667, 
+        lon: 29.438333, 
+        label: "Заброшенный железобетонный завод", 
+        color: "#FF2D55", 
+        image: "https://rizzexr.github.io/Rizzexr/Zabroshki/images/27.jpg",
+        guarded: "Нет",
+        difficulty: "1/3"
+    },
+    { 
+        lat: 46.531389, 
+        lon: 30.648889, 
+        label: "Заброшенный коровник", 
+        color: "#FF2D55", 
+        image: "https://rizzexr.github.io/Rizzexr/Zabroshki/images/top27.png",
+        guarded: "Нет",
+        difficulty: "1/3"
+    },
     // { 
     //     lat: , 
     //     lon: , 
